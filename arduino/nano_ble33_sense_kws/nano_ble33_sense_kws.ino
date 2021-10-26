@@ -38,7 +38,7 @@
 const int trg_pin = 6;    // Pin D6
 const int led_pin = 13;   // LED pin
 const int kw_idx = 2;     // Keyword is index 2 in the alphabetical list
-const float kw_threshold = 0.7  // Threshold probability for keyword
+const float kw_threshold = 0.7; // Threshold probability for keyword
 
 /** Audio buffers, pointers and selectors */
 typedef struct {
